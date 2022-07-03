@@ -21,3 +21,8 @@ Link to Deployed Application
 ScreenShots Below:
 
 <img width="1280" alt="image" src="https://user-images.githubusercontent.com/106774335/177054385-f6282537-54b5-4fc6-8938-afbe6cc861b2.png">
+
+<img width="1282" alt="ss-2" src="https://user-images.githubusercontent.com/106774335/177054401-6473dfe0-f385-4d41-adea-88c30bf55e21.png">
+
+<img width="1280" alt="ss-3" src="https://user-images.githubusercontent.com/106774335/177054475-8b5cff6e-c4bb-4ef8-ba10-6f7eeaf537c0.png">
+
