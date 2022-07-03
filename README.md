@@ -20,7 +20,7 @@ Link to Deployed Application
 
 ScreenShots Below:
 
-<img width="1280" alt="image" src="https://user-images.githubusercontent.com/106774335/177054385-f6282537-54b5-4fc6-8938-afbe6cc861b2.png">
+<img width="1281" alt="ss-1" src="https://user-images.githubusercontent.com/106774335/177054531-de695241-5c50-4dfa-b44c-ea1a40c33ce7.png">
 
 <img width="1282" alt="ss-2" src="https://user-images.githubusercontent.com/106774335/177054401-6473dfe0-f385-4d41-adea-88c30bf55e21.png">
 
