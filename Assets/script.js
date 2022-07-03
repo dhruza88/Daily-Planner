@@ -59,8 +59,7 @@ function buildRows(){
                 <div class="${realHourObj.rowClass}">
                     <input id="entry${eachHour}" type="text" name="description" placeholder="Enter Activities..." />    
                 </div>
-                <div id="btn${eachHour}" onClick="onSave(${eachHour})">
-                </div>
+                <div id="btn${eachHour}" onClick="onSave(${eachHour})"></div>
             </div>
         `;
     });
