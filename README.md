@@ -13,3 +13,16 @@ Also while using the new Date method to store the current hours to color code th
 Multiple If and ForEach loops were used to check against certain conditions to display the proper output. Whether it was converting from military time to standard time, determining am or pm. Also in tie with the highlighting feature for comparing the blocks to the current time of day.
 
 Using a grid system i was able to dynamically develop rows and columns to display the schedule as portrayed in the project guidelines.
+
+Link to Deployed Application
+
+https://dhruza88.github.io/Daily-Planner/
+
+ScreenShots Below:
+
+<img width="1281" alt="ss-1" src="https://user-images.githubusercontent.com/106774335/177054531-de695241-5c50-4dfa-b44c-ea1a40c33ce7.png">
+
+<img width="1282" alt="ss-2" src="https://user-images.githubusercontent.com/106774335/177054401-6473dfe0-f385-4d41-adea-88c30bf55e21.png">
+
+<img width="1280" alt="ss-3" src="https://user-images.githubusercontent.com/106774335/177054475-8b5cff6e-c4bb-4ef8-ba10-6f7eeaf537c0.png">
+
