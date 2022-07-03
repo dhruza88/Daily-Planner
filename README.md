@@ -20,9 +20,11 @@ https://dhruza88.github.io/Daily-Planner/
 
 ScreenShots Below:
 
-<img width="1281" alt="ss-1" src="https://user-images.githubusercontent.com/106774335/177054531-de695241-5c50-4dfa-b44c-ea1a40c33ce7.png">
+<img width="1281" alt="ss-1" src="https://user-images.githubusercontent.com/106774335/177055938-81a3ea29-0ae9-41f5-a21d-40c5b2ee2463.png">
 
-<img width="1282" alt="ss-2" src="https://user-images.githubusercontent.com/106774335/177054401-6473dfe0-f385-4d41-adea-88c30bf55e21.png">
 
-<img width="1280" alt="ss-3" src="https://user-images.githubusercontent.com/106774335/177054475-8b5cff6e-c4bb-4ef8-ba10-6f7eeaf537c0.png">
+<img width="1277" alt="ss-2" src="https://user-images.githubusercontent.com/106774335/177055956-ea21a807-94e5-441e-96a1-a79a5b69df7e.png">
+
+
+<img width="1279" alt="ss-3" src="https://user-images.githubusercontent.com/106774335/177055974-fba3e60b-62aa-4c69-ba65-460831898928.png">
 
