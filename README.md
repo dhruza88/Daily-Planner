@@ -13,3 +13,11 @@ Also while using the new Date method to store the current hours to color code th
 Multiple If and ForEach loops were used to check against certain conditions to display the proper output. Whether it was converting from military time to standard time, determining am or pm. Also in tie with the highlighting feature for comparing the blocks to the current time of day.
 
 Using a grid system i was able to dynamically develop rows and columns to display the schedule as portrayed in the project guidelines.
+
+Link to Deployed Application
+
+
+
+ScreenShots Below:
+
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/106774335/177054385-f6282537-54b5-4fc6-8938-afbe6cc861b2.png">
